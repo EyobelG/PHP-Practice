@@ -1,0 +1,17 @@
+{
+    "name": "user/times-table-generator",
+    "description": "A simple PHP script to generate a times table based on user input.",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4"
+    },
+    "authors": [
+        {
+            "name": "Eyobel Gebre",
+            "email": "eyobel.gebre@tufts.edu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
