@@ -4,7 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Times Table Generator</title>
+    <style>
+        .h1 {
+            color: #500082;
+        }
+    </style>
 </head>
+
 <body>
 
 <h1>Times Table Generator</h1>
